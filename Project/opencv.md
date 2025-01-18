@@ -1,0 +1,6 @@
+#### 1)[control youtube using fingers](https://youtu.be/NGEyIfX4GGk?si=Py2alfaOsSj9wFyp)
+#### 2)[ Operate Computer with Eyes](https://youtu.be/reseUaALZAw?si=tmNWhSeYkm4zSkqY)
+#### 3)[face detection system using yolo with database](https://youtu.be/iBomaK2ARyI?si=nN7ytO6m3fKga_M7)
+#### 3)
+#### 3)
+#### 3)
