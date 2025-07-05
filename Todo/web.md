@@ -1,5 +1,5 @@
 
----
+
 
 ## 1. Infrastructure & Architecture
 
@@ -101,7 +101,5 @@
 * [ ] Edge/CDN caching and geo-routing
 * [ ] CDN + gzip/brotli + cache headers
 * [ ] noscript tags fallback
-
----
 
 
